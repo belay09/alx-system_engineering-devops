@@ -1,2 +1,2 @@
-st=$(pwd)
-echo "$st"
+!/bin/bash
+echo "$(pwd)"
